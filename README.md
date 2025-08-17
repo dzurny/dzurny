@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dzurny" alt="dzurny" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dzurny&theme=onedark&margin-w=15" alt="dzurny" />
   </a>
 </p>
 
