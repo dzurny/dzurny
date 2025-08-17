@@ -7,9 +7,9 @@
 
 - 📄 I'm working on Multiple FiveM **RolePlay Servers.**
 
-- 🤝 I'm looking for **Partnerships.**
+- 🤝 I'm looking for **Partnerships!**
 
-- 👨‍💻 All my scripts are **OpenSource**
+- 👨‍💻 All my scripts are **OpenSource.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
