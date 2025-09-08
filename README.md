@@ -14,7 +14,7 @@
 - 📄 I'm working on Multiple FiveM **RolePlay Servers.**
 - 🤝 I'm looking for **Partnerships!**
 - 👨‍💻 All my scripts are **OpenSource.**
-- 📄 I have worked for SARP.cz, HLRP.cz, RevK, Reality and my personal projects.
+- 📄 I'm currently working for Wixen, and i have been working on separate projects in the past.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
