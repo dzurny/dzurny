@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 📄 I'm working on Multiple FiveM **RolePlay Servers.**
-- 🤝 I'm looking for **Partnerships!**
+- 📄 I have expirience working on Multiple FiveM **RolePlay Servers.**
+- 🤝 I'm no longer in the CZ/SK RP Scene and i will no longer be a dev.**
 - 👨‍💻 All my scripts are **OpenSource.**
-- 📄 I'm currently working for Wixen, and i have been working on separate projects in the past.
+- 📄 Last server i worked on was Wixen RolePlay.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
